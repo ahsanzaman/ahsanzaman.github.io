@@ -1,2 +1,2 @@
 # ahsanzaman.github.io
-Portfolio site.
+This will be my portfolio website and I intend it to be the center of my digital fingerprint at some point.
